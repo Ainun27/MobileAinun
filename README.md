@@ -44,8 +44,8 @@
 -	Mengklik "Pesan Sekarang" menyimpan pemesanan dan kembali ke Menu Utama atau menampilkan pesan konfirmasi.
   
 3. Layar Konfirmasi
-•	Tujuan: Mengonfirmasi bahwa pemesanan tiket berhasil.
-•	Elemen:
+-	Tujuan: Mengonfirmasi bahwa pemesanan tiket berhasil.
+-	Elemen:
    -	Pesan: "Pemesanan Tiket Berhasil!"
    -	Menampilkan detail pemesanan (misalnya, Nama, Tujuan, Tanggal).
    -	Tombol: "Kembali ke Menu Utama"
@@ -63,7 +63,7 @@
    > Tanggal
    > History Harga Pesanan
 - Gestur gesek untuk menghapus.
-   •	Navigasi:
+   -	Navigasi:
 -	Mengklik item dapat menuju ke layar detail (opsional) atau mengizinkan pengeditan.
 ```
 
@@ -71,5 +71,8 @@
 ![alt text](https://github.com/Ainun27/MobileAinun/blob/master/image.png?raw=true)
 
 ### STORYBOARD UI
+
+![alt text](https://github.com/Ainun27/MobileAinun/blob/master/Untitled%20(17).png?raw=true)
+
 
 
