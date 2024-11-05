@@ -3,7 +3,6 @@
 ## NIM    : 312310013
 ## KELAS  : TI 23 A1
 
-```ssh
 ### STORY BOARD 
 #### Storyboard untuk Aplikasi Pemesanan Tiket & Hotel
 
@@ -58,21 +57,20 @@
    -	RecyclerView/Daftar yang menunjukkan pemesanan sebelumnya.
    -	Setiap item menampilkan:
    > Nama pengguna
-   > enis tiket (Pesawat/Kapal/Kereta)
+   > pesan tiket (Pesawat/Kapal/Kereta)
    > Tujuan
    > Tanggal
    > History Harga Pesanan
 - Gestur gesek untuk menghapus.
    -	Navigasi:
 -	Mengklik item dapat menuju ke layar detail (opsional) atau mengizinkan pengeditan.
-```
 
 ### FLOWCHART
 ![alt text](https://github.com/Ainun27/MobileAinun/blob/master/image.png?raw=true)
 
 ### STORYBOARD UI
 
-![alt text](https://github.com/Ainun27/MobileAinun/blob/master/Untitled%20(17).png?raw=true)
+![alt text](https://github.com/Ainun27/MobileAinun/blob/master/ainun.png?raw=true)
 
 
 
