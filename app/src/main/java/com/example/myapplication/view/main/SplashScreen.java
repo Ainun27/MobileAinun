@@ -6,6 +6,7 @@ import com.example.myapplication.view.history.HistoryActivity;
 import com.example.myapplication.view.input.DataKapalActivity;
 import com.example.myapplication.view.input.DataKeretaActivity;
 import com.example.myapplication.view.input.DataPesawatActivity;
+import com.example.myapplication.view.input.DataMobilActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -33,6 +34,10 @@ public class SplashScreen extends AppCompatActivity {
         });
         findViewById(R.id.cvKereta).setOnClickListener(v -> {
             Intent intent = new Intent(SplashScreen.this, DataKeretaActivity.class);
+            startActivity(intent);
+        });
+        findViewById(R.id.cvHotel).setOnClickListener(v -> {
+            Intent intent = new Intent(SplashScreen.this, DataMobilActivity.class);
             startActivity(intent);
         });
     }
