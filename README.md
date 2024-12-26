@@ -73,5 +73,7 @@
 
 ### STORYBOARD UI
 
+![alt text]([https://github.com/Ainun27/MobileAinun/blob/master/ainun.png](https://github.com/Ainun27/MobileAinun/blob/master/Untitled%20(18).png
+)?raw=true)
 
 
