@@ -65,12 +65,13 @@
    -	Navigasi:
 -	Mengklik item dapat menuju ke layar detail (opsional) atau mengizinkan pengeditan.
 
-### FLOWCHART
-![alt text](https://github.com/Ainun27/MobileAinun/blob/master/image.png?raw=true)
-
 ### STORYBOARD UI
 
 ![alt text](https://github.com/Ainun27/MobileAinun/blob/master/ainun.png?raw=true)
+
+# REVISI
+
+### STORYBOARD UI
 
 
 
